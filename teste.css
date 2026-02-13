@@ -52,7 +52,7 @@ nav {
     font-weight: 600;
     text-transform: uppercase; /* Transforma o texto para letras maiúsculas */
 }
-
+q
 /* Estilos para o menu hamburguer */
 .menu-toggle {
     display: none; /* Não exibe em telas grandes */
@@ -111,7 +111,7 @@ nav {
     /* Header */
     nav ul {
      }
-   position: absolute;
+   position: absolute
       top: 70px;
       left: 0;
       background: #333;
@@ -148,7 +148,7 @@ nav {
 
 /* Estilos gerais (Todo o projeto) */
 
-* {
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box; /* Define o modelo da caixa para incluir padding e borda no tamanho total do elemento */
